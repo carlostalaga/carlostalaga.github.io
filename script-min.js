@@ -1,1 +1,1 @@
-console.log("Deployment time!");
+console.log("Deployment time!"),alert("Ogologo time!!");
