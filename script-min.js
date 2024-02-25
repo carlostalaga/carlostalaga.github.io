@@ -1,1 +1,0 @@
-console.log("Deployment time!");let d=new Date;document.getElementById("demo").innerHTML=d;
